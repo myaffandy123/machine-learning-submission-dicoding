@@ -1,5 +1,5 @@
 // TODO: Silakan sesuaikan BASE URL dari endpoint Anda
-const BASE_URL = 'YOUR_BASE_URL';
+const BASE_URL = 'https://ml-cancer-backend-czt7y2uisa-et.a.run.app';
 
 const ENDPOINT = {
   predict: `${BASE_URL}/predict`,
